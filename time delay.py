@@ -2,7 +2,7 @@ import time
 import delay
 import vortex
 import 
- 
+      # change in time starts here 
 time delay("5
   time //vortex time 
  
@@ -66,7 +66,75 @@ radar
 index time
 
 vortex
-
+           
+time 
+              #change in time 
+             
+             radar link.true
+             
+             if
+                true.radar
+             
+             else
+                false.radar     
+             
+             
+             
+             
+             time link 
+             get(hostname)
+ get hostname 
+             link 
+             
+             
+             true.radar 
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
+      true 
+             
+             
+             
+             
+             
+             
+             else
+             true.false ===e 
+             link
+             
+             
+      get(ipname)       
+  get ipname 
+             link 
+             
+             
+             true.radar
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
++-----+---+--+++-----------+------
+             
+            true 
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
+             
 
 
 
